@@ -20,3 +20,4 @@ The application is deployed on Netlify and can be visited here:
 - You will require an API key from OpenWeather to use this locally. You can easily get a free API key here (Use the Current Weather Data API Key): [OpenWeather API](https://openweathermap.org/api)
 - Once you have your API key, in the apiKey paste your API key.
 - You can now run to start the application locally on Port 5500.
+
